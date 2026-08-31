@@ -4,3 +4,7 @@ matplotlib
 numpy
 scikit-learn
 statsmodels
+langchain 
+langchain-community 
+requests
+langchain-google-genai
