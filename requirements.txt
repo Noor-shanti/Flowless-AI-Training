@@ -4,3 +4,8 @@ matplotlib
 numpy
 scikit-learn
 statsmodels
+pypdf
+sentence-transformers
+faiss-cpu
+python-dotenv
+google-genai
