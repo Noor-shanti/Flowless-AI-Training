@@ -8,3 +8,8 @@ langchain
 langchain-community 
 requests
 langchain-google-genai
+pypdf
+sentence-transformers
+faiss-cpu
+python-dotenv
+google-genai
