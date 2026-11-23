@@ -9,3 +9,10 @@ sentence-transformers
 faiss-cpu
 python-dotenv
 google-genai
+google-generativeai
+crewai
+crewai-tools
+langfuse
+openinference-instrumentation-crewai
+opentelemetry-sdk
+ opentelemetry-exporter-otlp-proto-http
